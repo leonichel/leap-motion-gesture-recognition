@@ -55,6 +55,6 @@ The classifiers were evaluated and optimized using Bayesian search for hyperpara
 
 ## Results
 
-The best combinations of models reached 93.51% accuracy. The figures illustrates the best combination along with their corresponding hyperparameters, and the confusion matrix of the model validation.
+The best combinations of models reached 95.8% accuracy. The figures illustrates the best combination along with their corresponding hyperparameters, and the confusion matrix of the model validation.
 ![best-model](images/best_model.png)
 ![best-model](images/confusion_matrix.png)
